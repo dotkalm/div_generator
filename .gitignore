@@ -2,8 +2,11 @@
 *.json
 *.sqlite
 .env
-joelholmbergdotcom-firebase-adminsdk-8j2c3-17b7e6f147.json
-.homepageapi
+*.json
+.divGenrator/
+.divGenrator
+.divGenerator
+.divGenerator/
 .env.development
 .env.production
 
